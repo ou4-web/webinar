@@ -1,0 +1,33 @@
+{
+    "TM": {
+          "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
+          "TITLE": "翻訳管理（変更）",
+          "CONTENT": "いくつかのソフトウェア文字列を翻訳するか、Memsourceをデプロイして、グローバル組織での翻訳を自動化します。社内の言語学者、翻訳会社、機械翻訳のいずれを使用する場合でも、Memsourceは、すぐに使用できるCMSコネクタ、強力な継続的ローカリゼーション機能、豊富なREST APIなど、プロセスをエンドツーエンドで自動化するために必要なすべてを提供します。",
+          "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/307d5c6296b7d278c544d6d18898faadca85c682/d3013/assets/images/features/translation-management.png\"></img></td></tr></table>"
+        },
+    "AI": {
+          "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
+          "TITLE": "人工知能",
+          "CONTENT": "Memsourceは、従来の翻訳技術と最先端の人工知能を組み合わせることにより、翻訳コストを削減する独自のアプローチの特許を取得しています。特許取得済みのAIテクノロジーは、高品質で自動的に翻訳できるコンテンツを識別することができます。",
+          "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/573535191db00f97b0884ae82d72efe44080807c/c274b/assets/images/features/artificial-intelligence.png\"></img></td></tr></table>"
+        },
+    "API": {
+          "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
+          "TITLE": "RESTAPIとコネクタ",
+          "CONTENT": "MemsourceをSitecore、AEM、WordPress、DrupalなどのCMS、またはGit、Magento、Zendesk、Marketo、HubSpot、Googleドライブ、Dropboxなどの他のシステムに接続して、翻訳用のファイルをシームレスかつ安全に送信し、受信します完全なエンドツーエンドの自動化を備えています。または、Memsourceの機能を包括的にカバーするRESTAPIを使用してカスタム統合を構築します。",
+          "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/9ca1b78e4e692201a30e37f1a262ad340a1ffd91/571c7/assets/images/features/connectors.png\"></img></td></tr></table>"
+        },
+    "MT": {
+          "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
+          "TITLE": "機械翻訳",
+          "CONTENT": "Memsourceに統合された30以上の機械翻訳エンジンのおかげで、翻訳コストを削減するために機能するエンジンを選択してください。各エンジンの出力を評価できるMemsourceのAIを利用した機械翻訳の品質推定を活用して、プロセスをさらに強化します。",
+          "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/d1c1ce12b27e98c569eb387b5e6caaa6c0aa7976/4023f/assets/images/features/machine-translation.png\"></img></td></tr></table>"
+        },
+    "EDITOR": {
+          "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
+          "TITLE": "MEMSOURCEでの翻訳",
+          "CONTENT": "Memsourceでの翻訳は直感的で協調的であり、すべてのプラットフォームでアクセスできます。翻訳者には、次の3つの環境で作業するオプションがあります。サポートされている任意のブラウザで利用可能なWeb用Memsourceエディタ。 Memsource Editor for Desktopは、クラウドとリアルタイムで同期し、オフライン作業をサポートします。 iOSおよびAndroidデバイスでアクセス可能なモバイル用Memsourceエディター。",
+          "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/fdc6eaa29127214b8416e93b0ca6eb40a9357e4d/8152e/assets/images/features/translating-memsource.png\"></img></td></tr></table>"
+        }
+
+}
