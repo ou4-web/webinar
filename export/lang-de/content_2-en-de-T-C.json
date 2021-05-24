@@ -1,0 +1,33 @@
+{
+    "TM": {
+          "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
+          "TITLE": "ÜBERSETZUNGSMANAGEMENT (Änderung)",
+          "CONTENT": "Übersetzen Sie einige Softwarezeichenfolgen oder stellen Sie Memsource bereit, um Übersetzungen in Ihrer globalen Organisation zu automatisieren. Unabhängig davon, ob Sie interne Linguisten, Übersetzungsunternehmen oder maschinelle Übersetzungen verwenden, bietet Memsource alles, was Sie zur End-to-End-Automatisierung des Prozesses benötigen, einschließlich sofort einsatzbereiter CMS-Konnektoren, leistungsstarker Funktionen zur kontinuierlichen Lokalisierung und einer umfassenden REST-API.",
+          "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/307d5c6296b7d278c544d6d18898faadca85c682/d3013/assets/images/features/translation-management.png\"></img></td></tr></table>"
+        },
+    "AI": {
+          "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
+          "TITLE": "KÜNSTLICHE INTELLIGENZ",
+          "CONTENT": "Memsource hat einen einzigartigen Ansatz zur Reduzierung der Übersetzungskosten patentiert, indem traditionelle Übersetzungstechnologie mit modernster künstlicher Intelligenz kombiniert wird. Die patentierte KI-Technologie ist in der Lage, Inhalte zu identifizieren, die automatisch in hoher Qualität übersetzt werden können.",
+          "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/573535191db00f97b0884ae82d72efe44080807c/c274b/assets/images/features/artificial-intelligence.png\"></img></td></tr></table>"
+        },
+    "API": {
+          "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
+          "TITLE": "REST-API UND ANSCHLÜSSE",
+          "CONTENT": "Verbinden Sie Memsource mit Ihrem CMS wie Sitecore, AEM, WordPress, Drupal oder anderen Systemen wie Git, Magento, Zendesk, Marketo, HubSpot, Google Drive, Dropbox und anderen, um Dateien zur Übersetzung nahtlos und sicher zu senden und zurückzusenden mit vollständiger End-to-End-Automatisierung. Oder erstellen Sie eine benutzerdefinierte Integration mithilfe unserer REST-API, die eine umfassende Abdeckung der Funktionen von Memsource bietet.",
+          "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/9ca1b78e4e692201a30e37f1a262ad340a1ffd91/571c7/assets/images/features/connectors.png\"></img></td></tr></table>"
+        },
+    "MT": {
+          "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
+          "TITLE": "MASCHINENÜBERSETZUNG",
+          "CONTENT": "Wählen Sie die Engine aus, die dank über 30 in Memsource integrierten maschinellen Übersetzungs-Engines für Sie funktioniert, um die Übersetzungskosten zu senken. Verbessern Sie den Prozess weiter, indem Sie die AI-gestützte maschinelle Übersetzungsqualitätsschätzung von Memsource nutzen, mit der die Leistung jedes Motors bewertet werden kann.",
+          "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/d1c1ce12b27e98c569eb387b5e6caaa6c0aa7976/4023f/assets/images/features/machine-translation.png\"></img></td></tr></table>"
+        },
+    "EDITOR": {
+          "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
+          "TITLE": "ÜBERSETZUNG IN MEMSOURCE",
+          "CONTENT": "Das Übersetzen in Memsource ist intuitiv, kollaborativ und plattformübergreifend. Übersetzer haben die Möglichkeit, in drei Umgebungen zu arbeiten: Memsource Editor für Web, verfügbar in jedem unterstützten Browser; Memsource Editor für Desktop, der in Echtzeit mit der Cloud synchronisiert wird und Offline-Arbeit unterstützt; Memsource Editor für Mobilgeräte, verfügbar auf iOS- und Android-Geräten.",
+          "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/fdc6eaa29127214b8416e93b0ca6eb40a9357e4d/8152e/assets/images/features/translating-memsource.png\"></img></td></tr></table>"
+        }
+
+}
