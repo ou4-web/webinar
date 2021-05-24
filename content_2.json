@@ -22,6 +22,12 @@
           "TITLE": "MACHINE TRANSLATION",
           "CONTENT": "Pick the engine that works for you thanks to over 30 machine translation engines integrated in Memsource to reduce translation costs. Further enhance the process by leveraging Memsource’s AI-powered machine translation quality estimation, capable of evaluating each engine’s output.",
           "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/d1c1ce12b27e98c569eb387b5e6caaa6c0aa7976/4023f/assets/images/features/machine-translation.png\"></img></td></tr></table>"
+        },
+    "MT": {
+          "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
+          "TITLE": "TRANSLATING IN MEMSOURCE",
+          "CONTENT": "Translating in Memsource is intuitive, collaborative, and accessible across all platforms. Translators have the option of working in three environments: Memsource Editor for Web, available on any supported browser; Memsource Editor for Desktop, which syncs with the cloud in real time and supports offline work; Memsource Editor for Mobile, accessible on iOS and Android devices.",
+          "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/fdc6eaa29127214b8416e93b0ca6eb40a9357e4d/8152e/assets/images/features/translating-memsource.png\"></img></td></tr></table>"
         }
 
 }
