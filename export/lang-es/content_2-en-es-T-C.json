@@ -1,0 +1,33 @@
+{
+    "TM": {
+          "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
+          "TITLE": "GESTIÓN DE TRADUCCIONES (cambio)",
+          "CONTENT": "Traduzca algunas cadenas de software o implemente Memsource para automatizar las traducciones en su organización global. Ya sea que utilice lingüistas internos, empresas de traducción o traducción automática, Memsource proporciona todo lo que necesita para automatizar el proceso de extremo a extremo, incluidos conectores CMS listos para usar, potentes funciones de localización continua y API REST enriquecida.",
+          "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/307d5c6296b7d278c544d6d18898faadca85c682/d3013/assets/images/features/translation-management.png\"></img></td></tr></table>"
+        },
+    "AI": {
+          "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
+          "TITLE": "INTELIGENCIA ARTIFICIAL",
+          "CONTENT": "Memsource ha patentado un enfoque único para reducir los costos de traducción combinando la tecnología de traducción tradicional con la inteligencia artificial de última generación. La tecnología de IA patentada es capaz de identificar contenido que se puede traducir automáticamente a alta calidad.",
+          "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/573535191db00f97b0884ae82d72efe44080807c/c274b/assets/images/features/artificial-intelligence.png\"></img></td></tr></table>"
+        },
+    "API": {
+          "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
+          "TITLE": "API DE REST Y CONECTORES",
+          "CONTENT": "Conecte Memsource con su CMS como Sitecore, AEM, WordPress, Drupal u otros sistemas como Git, Magento, Zendesk, Marketo, HubSpot, Google Drive, Dropbox y más, para enviar archivos sin problemas y de forma segura para su traducción y recibirlos de vuelta con automatización completa de extremo a extremo. O bien, cree una integración personalizada utilizando nuestra API REST, que proporciona una cobertura completa de la funcionalidad de Memsource.",
+          "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/9ca1b78e4e692201a30e37f1a262ad340a1ffd91/571c7/assets/images/features/connectors.png\"></img></td></tr></table>"
+        },
+    "MT": {
+          "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
+          "TITLE": "TRADUCCIÓN AUTOMÁTICA",
+          "CONTENT": "Elige el motor que funciona para ti gracias a más de 30 motores de traducción automática integrados en Memsource para reducir los costes de traducción. Mejore aún más el proceso aprovechando la estimación de calidad de traducción automática impulsada por IA de Memsource, capaz de evaluar la salida de cada motor.",
+          "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/d1c1ce12b27e98c569eb387b5e6caaa6c0aa7976/4023f/assets/images/features/machine-translation.png\"></img></td></tr></table>"
+        },
+    "EDITOR": {
+          "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
+          "TITLE": "TRADUCIR EN MEMSOURCE",
+          "CONTENT": "Traducir en Memsource es intuitiva, colaborativa y accesible en todas las plataformas. Los traductores tienen la opción de trabajar en tres entornos: Memsource Editor para Web, disponible en cualquier navegador compatible; Memsource Editor para escritorio, que se sincroniza con la nube en tiempo real y soporta trabajo sin conexión; Memsource Editor para móviles, accesible en dispositivos iOS y Android.",
+          "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/fdc6eaa29127214b8416e93b0ca6eb40a9357e4d/8152e/assets/images/features/translating-memsource.png\"></img></td></tr></table>"
+        }
+
+}
