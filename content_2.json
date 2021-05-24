@@ -1,0 +1,27 @@
+{
+    "TM": {
+          "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
+          "TITLE": "TRANSLATION MANAGEMENT",
+          "CONTENT": "Translate a few software strings or deploy Memsource to automate translations in your global organization. Whether you use in-house linguists, translation companies, or machine translation, Memsource provides all you need to automate the process end-to-end, including out-of-the box CMS connectors, powerful continuous localization features, and rich REST API.",
+          "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/307d5c6296b7d278c544d6d18898faadca85c682/d3013/assets/images/features/translation-management.png\"></img></td></tr></table>"
+        },
+    "AI": {
+          "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
+          "TITLE": "ARTIFICIAL INTELLIGENCE",
+          "CONTENT": "Memsource has patented a unique approach to reducing translation costs by combining traditional translation technology with state-of-the-art artificial intelligence. The patented AI technology is capable of identifying content that can be translated automatically at high quality.",
+          "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/573535191db00f97b0884ae82d72efe44080807c/c274b/assets/images/features/artificial-intelligence.png\"></img></td></tr></table>"
+        },
+    "API": {
+          "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
+          "TITLE": "REST API AND CONNECTORS",
+          "CONTENT": "Connect Memsource with your CMS such as Sitecore, AEM, WordPress, Drupal, or other systems such as Git, Magento, Zendesk, Marketo, HubSpot, Google Drive, Dropbox, and more, to seamlessly and securely send files for translation and receive them back with full end-to-end automation. Or, build a custom integration using our REST API, which provides comprehensive coverage of Memsource’s functionality.",
+          "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/9ca1b78e4e692201a30e37f1a262ad340a1ffd91/571c7/assets/images/features/connectors.png\"></img></td></tr></table>"
+        },
+    "MT": {
+          "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
+          "TITLE": "MACHINE TRANSLATION",
+          "CONTENT": "Pick the engine that works for you thanks to over 30 machine translation engines integrated in Memsource to reduce translation costs. Further enhance the process by leveraging Memsource’s AI-powered machine translation quality estimation, capable of evaluating each engine’s output.",
+          "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/d1c1ce12b27e98c569eb387b5e6caaa6c0aa7976/4023f/assets/images/features/machine-translation.png\"></img></td></tr></table>"
+        }
+
+}
